@@ -76,7 +76,7 @@ void loop() {
 
 Este código fue tomado de: [LEA6_1_toneButton.ino](https://github.com/arduinotogo/LEA/blob/master/LEA6_1_toneButton.ino)
 
-## Archivos de test
+## Archivos de tes
 
 1. **Archivo Fritzing**: [Ejemplo 2.fzz](Ejemplo 2.fzz)
 2. **Codigo fuente**: [Ejemplo_2.ino](Ejemplo_2.ino)
