@@ -6,18 +6,21 @@ En este circuito se muestra como se apaga un led y se enciende un speaker que ge
 
 ## Componentes
 
-Hacer una tabla con los componentes
-
-## Esquematico
 |Nombre|Cantidad|Componente|
 |---|---|---|
 |U1	|1	| Arduino Uno R3 |
-|R1	|1	| Resistencia de 220 Ω |
+|R1	|1	| Resistencia 1kΩ |
+|S1	|1	| Pulsador |
+|PIEZO1	|1	| Resistencia de 220 Ω |
+|R2	|1	| Resistencia de 220 Ω |
 |D1	|1	| LED rojo |
 
-## Montaje
+## Esquematico
 
-...
+![esquematico](esquematico-ejemplo2.png)
+
+## Montaje
+![esquematico](montaje-ejemplo2.png)
 
 ## Codigo
 /*
