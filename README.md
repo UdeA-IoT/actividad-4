@@ -16,7 +16,6 @@ Para realizar prototipado empleando elementos (de diferentes fabricantes) dispon
 3. **Elegoo**: Las partes se encuentran en el siguiente [repositorio](https://github.com/marcinwisniowski/ElegooFritzingBin). Para ello descargue [Elegoo-0.6.3.fzbz](https://github.com/marcinwisniowski/ElegooFritzingBin/releases/download/0.6.3/Elegoo-0.6.3.fzbz) 
 4. **NodeMCU y otros componentes**: Estos componentes se pueden obtener del siguiente [repositorio](https://github.com/AchimPieters/Fritzing-Custom-Parts) mas exactamente realizar la descarga de la siguiente [pagina](https://github.com/AchimPieters/Fritzing-Custom-Parts/releases/tag/0.0.1) seleccionando el archivo [Fritzing.parts](https://github.com/AchimPieters/Fritzing-Custom-Parts/releases/download/0.0.1/Fritzing.parts.zip) 
 
-
 ## Actividad previa
 
 En esta sección se asignará algunos de los ejemplos del libro [Make: Learn Electronics with Arduino](https://www.oreilly.com/library/view/learn-electronics-with/9781680454420/) con el fin de que sean:
@@ -25,12 +24,12 @@ En esta sección se asignará algunos de los ejemplos del libro [Make: Learn Ele
 3. Realizados en Fritzing.
 
 Teniendo en cuenta los ejemplos de este libro disponibles en el siguite [repositorio](https://github.com/arduinotogo/LEA) codifique el ejemplo asignado:
-1. Ejemplo 1 (LEA4_SOS.ino)
-2. Ejemplo 2 (LEA6_1_toneButton.ino)
-3. Ejemplo 3 (LEA6_2_toneButtons.ino)
-4. Ejemplo 4 (LEA6_3_toneButtons.ino)
-5. Ejemplo 5 (LEA7_VariableResistorTone.ino)
-6. Ejemplo 6 (LEA8_2_servos.ino)
+1. Ejemplo 1: LEA4_SOS.ino ([link](ejemplo1-libro))
+2. Ejemplo 2: LEA6_1_toneButton.ino ([link](ejemplo2-libro))
+3. Ejemplo 3: LEA6_2_toneButtons.ino ([link](ejemplo3-libro)
+4. Ejemplo 4: LEA6_3_toneButtons.ino ([link](ejemplo4-libro))
+5. Ejemplo 5: LEA7_VariableResistorTone.ino ([link](ejemplo5-libro))
+6. Ejemplo 6: LEA8_2_servos.ino ([link](ejemplo1-libro))
 
 ## Proceso básico de diseño electronico
 
@@ -90,7 +89,39 @@ Para mayor claridad de como usar los sensores se puede ver el siguiente video de
 
 Los ejemplos a trabajar se pueden obtener del siguiente [respositorio](https://github.com/ieee-uh-makers/elegoo-sensor-kit)
 
-## Ejemplos resueltos
+## Ejemplos varios
+
+A continuación se muestran una lista de ejemplos tomados de diferentes partes:
+1. Teclado matricial ([link](https://www.tinkercad.com/things/iM5JG13kYGJ))
+
+![fig-ejemplo-teclado](miselanea_ejemplos/ejemplo1-keypad.png)
+
+2. LCD ([link](https://www.tinkercad.com/things/lusaRUfAbac))
+
+![fig-ejemplo-teclado](miselanea_ejemplos/ejemplo2-lcd.png)
+
+3. Pulsador ([link](https://www.tinkercad.com/things/6b3XwKOKiKw))
+
+![fig-ejemplo-pulsador](miselanea_ejemplos/ejemplo3-pulsador.png)
+
+4. Led ([link](https://www.tinkercad.com/things/1Ap2geP165n))
+
+![fig-ejemplo-led](miselanea_ejemplos/ejemplo4-led.png)
+
+5. Buzzer ([link](https://www.tinkercad.com/things/ldcNBO829us))
+
+![fig-ejemplo-buzzer](miselanea_ejemplos/ejemplo5-buzzer.png)
+
+6. Fotocelda ([link](https://www.tinkercad.com/things/cfsWhyfxhAq))
+
+![fig-ejemplo-fotocelda](miselanea_ejemplos/ejemplo6-fotocelda.png)
+
+7. Ultrasonido ([link](https://www.tinkercad.com/things/kyhZKj3lmQn))
+
+![fig-ejemplo-ultrasonido](miselanea_ejemplos/ejemplo7-ultrasonido.png)
+
+
+## Ejemplos del kit Elegoo
 
 A continuación se muestran algunos ejemplos resueltos del kit de elegoo:
 1. lesson5-DS18B20_temperature_sensor_module ([link](ejemplos-elegoo/lesson15))
