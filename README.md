@@ -4,16 +4,22 @@
 > * Comprender los conceptos básicos para realizar prototipado.
 > * Explorar algunos de los sensores disponibles en el laboratorio
 
-
-
 ## Introducción
 
 El uso de sensores y actuadores permiten que las cosas interactuen con el mundo real. En esta sesión vamos a explorar los principales conceptos relacionados con los sensores y actuadores analizando una serie de ejemplos que demuestren su uso basico.
 
+## Instalación de librerias en fritzing
+
+Para realizar prototipado empleando elementos (de diferentes fabricantes) disponibles en kits de desarrollo siga el tutorial [How to Add Components in Fritzing](https://steemit.com/utopian-io/@thinkingmind/how-to-add-components-in-fritzing) agregando los siguientes componentes:
+1. **Adadruit**: Siga las instrucciones dadas en el siguiente [link](https://learn.adafruit.com/using-the-adafruit-library-with-fritzing/import-the-library-into-fritzing).
+2. **Grove**: Descargar el archivo seeed_fritzing_parts.fzbz del siguiente [repositorio](https://github.com/Seeed-Studio/fritzing_parts)
+3. **Elegoo**: Las partes se encuentran en el siguiente [repositorio](https://github.com/marcinwisniowski/ElegooFritzingBin). Para ello descargue [Elegoo-0.6.3.fzbz](https://github.com/marcinwisniowski/ElegooFritzingBin/releases/download/0.6.3/Elegoo-0.6.3.fzbz) 
+4. **NodeMCU y otros componentes**: Estos componentes se pueden obtener del siguiente [repositorio](https://github.com/AchimPieters/Fritzing-Custom-Parts) mas exactamente realizar la descarga de la siguiente [pagina](https://github.com/AchimPieters/Fritzing-Custom-Parts/releases/tag/0.0.1) seleccionando el archivo [Fritzing.parts](https://github.com/AchimPieters/Fritzing-Custom-Parts/releases/download/0.0.1/Fritzing.parts.zip) 
+
+
 ## Actividad previa
 
-1. Colocar aca la actividad a realizar.
-2. Mostrar como se instalan las librerias usando fritzing.
+
 
 ## Proceso básico de diseño electronico
 
@@ -65,14 +71,34 @@ La siguiente tabla muestra mayot información sobre algunos de los principales e
 |Sensor de ultrasonido|[Ultrasonic Sonar Distance Sensors](https://learn.adafruit.com/ultrasonic-sonar-distance-sensors)|
 |Sensor de proximidad|[PIR Motion Sensor](https://learn.adafruit.com/pir-passive-infrared-proximity-motion-sensor)|
 
+## Experimentando con algunos sensores
 
-## Referncias
+Otro de los kits de desarrollo con los que se cuenta es con el kit [Elegoo 37 In 1 Sensor Modules Kit](https://www.elegoo.com/products/elegoo-37-in-1-sensor-kit) cuyo tutorial se puede descargar del siguiente [enlace](http://spot.pcc.edu/~dgoldman/labs/37SENSORKIT.pdf). 
+
+Para mayor claridad de como usar los sensores se puede ver el siguiente video demostrativo ([link](https://www.youtube.com/watch?v=Df11Dbu6LzU))
+
+
+
+
+
+
+
+
+
+## Referencias
 
 1. https://github.com/jonfroehlich/CSE590Sp2018
 2. https://microsoft.github.io/IoT-For-Beginners/#/
 3. https://learn.adafruit.com/series/learn-arduino
 4. https://learn.sparkfun.com/tutorials/experiment-guide-for-the-johnny-five-inventors-kit?_ga=2.204321872.159243291.1638157468-812475524.1634861735
 5. https://learn.adafruit.com/adabox001/introduction
+6. http://digitalconcepts.net.au/fritzing/index.php?op=parts
+7. https://itp.nyu.edu/physcomp/
+8. https://images-eu.ssl-images-amazon.com/images/I/C1lrpIfADaS.pdf
+9. http://spot.pcc.edu/~dgoldman/labs/37SENSORKIT.pdf
+
+
+
 
 
 
