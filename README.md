@@ -93,10 +93,10 @@ Los ejemplos a trabajar se pueden obtener del siguiente [respositorio](https://g
 ## Ejemplos resueltos
 
 A continuación se muestran algunos ejemplos resueltos del kit de elegoo:
-1. lesson5-DS18B20_temperature_sensor_module ([link](ejemplos-elegoo\lesson5))
-2. lesson6-button_switch_module ([link](ejemplos-elegoo\lesson6))
-3. lesson15-light_dependent_resistor_module ([link](ejemplos-elegoo\lesson15))
-4. lesson23-joystick_module ([link](ejemplos-elegoo\lesson23))
+1. lesson5-DS18B20_temperature_sensor_module ([link](ejemplos-elegoo/lesson15))
+2. lesson6-button_switch_module ([link](ejemplos-elegoo/lesson6))
+3. lesson15-light_dependent_resistor_module ([link](ejemplos-elegoo/lesson15))
+4. lesson23-joystick_module ([link](ejemplos-elegoo/lesson23))
 
 
 
