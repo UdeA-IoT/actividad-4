@@ -73,10 +73,11 @@ void loop() {
     digitalWrite(ledPin, LOW);
   }
 }
+
 Este código fue tomado de: [LEA6_1_toneButton.ino](https://github.com/arduinotogo/LEA/blob/master/LEA6_1_toneButton.ino)
 
 ## Archivos de test
 
-1. **Archivo Fritzing**: //[ejemplo1.fzz](ejemplo1.fzz)
-2. **Codigo fuente**: //[ejemplo1.ino](ejemplo1.ino)
-2. **Enlace tinkercad**: //[link simulación](https://www.tinkercad.com/things/9BWo9dmFfJF) 
+1. **Archivo Fritzing**: //[Ejemplo 2.fzz](Ejemplo 2.fzz)
+2. **Codigo fuente**: //[Ejemplo 2.ino](Ejemplo 2.ino)
+2. **Enlace tinkercad**: //[link simulación](https://www.tinkercad.com/things/4TbmCWs0EPu-ejemplo-2) 
