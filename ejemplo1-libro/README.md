@@ -2,11 +2,16 @@
 
 ## Descripción
 
-Hacer una breve descripción del circuito.
+Este circuito muestra el mensaje SOS en clave Morse en un led.
 
 ## Componentes
 
-Hacer una tabla con los componentes
+|Nombre|Cantidad|Componente|
+|---|---|---|
+|U1	|1	| Arduino Uno R3 |
+|R1	|1	| Resistencia de 220 Ω |
+|D1	|1	| LED rojo |
+
 
 ## Esquematico
 
@@ -73,7 +78,8 @@ void loop() {
 
 ## Archivos de test
 
-1. **Archivo Fritzing**
-2. **Enlace tinkercad**
-3. **Codigo fuente**
+1. **Archivo Fritzing**: [ejemplo1.fzz](ejemplo1.fzz)
+2. **Codigo fuente**: [ejemplo1.ino](ejemplo1.ino)
+2. **Enlace tinkercad**: [link simulación](https://www.tinkercad.com/things/9BWo9dmFfJF) 
+
 
