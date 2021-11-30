@@ -11,7 +11,7 @@ En este circuito se muestra como se apaga un led y se enciende un speaker que ge
 |U1	|1	| Arduino Uno R3 |
 |R1	|1	| Resistencia 1kΩ |
 |S1	|1	| Pulsador |
-|PIEZO1	|1	| Resistencia de 220 Ω |
+|PIEZO1	|1	| Piezo o Speaker |
 |R2	|1	| Resistencia de 220 Ω |
 |D1	|1	| LED rojo |
 
