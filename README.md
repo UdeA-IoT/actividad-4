@@ -19,7 +19,18 @@ Para realizar prototipado empleando elementos (de diferentes fabricantes) dispon
 
 ## Actividad previa
 
+En esta sección se asignará algunos de los ejemplos del libro [Make: Learn Electronics with Arduino](https://www.oreilly.com/library/view/learn-electronics-with/9781680454420/) con el fin de que sean:
+1. Codificados en el Arduino IDE.
+2. Simulados en Tinkercad.
+3. Realizados en Fritzing.
 
+Teniendo en cuenta los ejemplos de este libro disponibles en el siguite [repositorio](https://github.com/arduinotogo/LEA) codifique el ejemplo asignado:
+1. Ejemplo 1 (LEA4_SOS.ino)
+2. Ejemplo 2 (LEA6_1_toneButton.ino)
+3. Ejemplo 3 (LEA6_2_toneButtons.ino)
+4. Ejemplo 4 (LEA6_3_toneButtons.ino)
+5. Ejemplo 5 (LEA7_VariableResistorTone.ino)
+6. Ejemplo 6 (LEA8_2_servos.ino)
 
 ## Proceso básico de diseño electronico
 
@@ -77,13 +88,7 @@ Otro de los kits de desarrollo con los que se cuenta es con el kit [Elegoo 37 In
 
 Para mayor claridad de como usar los sensores se puede ver el siguiente video demostrativo ([link](https://www.youtube.com/watch?v=Df11Dbu6LzU))
 
-
-
-
-
-
-
-
+Los ejemplos a trabajar se pueden obtener del siguiente [respositorio](https://github.com/ieee-uh-makers/elegoo-sensor-kit)
 
 ## Referencias
 
@@ -96,6 +101,12 @@ Para mayor claridad de como usar los sensores se puede ver el siguiente video de
 7. https://itp.nyu.edu/physcomp/
 8. https://images-eu.ssl-images-amazon.com/images/I/C1lrpIfADaS.pdf
 9. http://spot.pcc.edu/~dgoldman/labs/37SENSORKIT.pdf
+10. https://www.halvorsen.blog/index.php
+11. https://www.build-electronic-circuits.com/
+12. https://learn.sparkfun.com/tutorials/beginners-guide-to-kicad?_ga=2.61841260.159243291.1638157468-812475524.1634861735
+13. https://learn.sparkfun.com/tutorials/internet-of-things-experiment-guide?_ga=2.61841260.159243291.1638157468-812475524.1634861735
+14. https://makeabilitylab.github.io/physcomp/resources/
+    
 
 
 
