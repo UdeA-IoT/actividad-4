@@ -90,6 +90,16 @@ Para mayor claridad de como usar los sensores se puede ver el siguiente video de
 
 Los ejemplos a trabajar se pueden obtener del siguiente [respositorio](https://github.com/ieee-uh-makers/elegoo-sensor-kit)
 
+## Ejemplos resueltos
+
+A continuación se muestran algunos ejemplos resueltos del kit de elegoo:
+1. lesson5-DS18B20_temperature_sensor_module ([link](ejemplos-elegoo\lesson5))
+2. lesson6-button_switch_module ([link](ejemplos-elegoo\lesson6))
+3. lesson15-light_dependent_resistor_module ([link](ejemplos-elegoo\lesson15))
+4. lesson23-joystick_module ([link](ejemplos-elegoo\lesson23))
+
+
+
 ## Referencias
 
 1. https://github.com/jonfroehlich/CSE590Sp2018
