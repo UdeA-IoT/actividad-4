@@ -120,6 +120,9 @@ A continuación se muestran una lista de ejemplos tomados de diferentes partes:
 
 ![fig-ejemplo-ultrasonido](miselanea_ejemplos/ejemplo7-ultrasonido.png)
 
+8. Ejemplo control de un motor empleando ultrasonido: ([link](https://www.tinkercad.com/things/hLFWS1vtWyp)). Agradecimientos a @SotalvaroO.
+
+![fig-ejemplo-ultrasonido-motor](miselanea_ejemplos/ejemplo8-ultrasonido-motor.png)
 
 ## Ejemplos del kit Elegoo
 
